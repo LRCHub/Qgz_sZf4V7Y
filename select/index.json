@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エンデバー",
+  "base_artist": "不破湊",
+  "createdAt": "2026-01-08T13:08:31.400559Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンデバー",
+      "artist": "不破湊",
+      "has_synced": false,
+      "path": "select/pl_01_エンデバー_不破湊.txt"
+    }
+  ]
+}
